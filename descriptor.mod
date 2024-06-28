@@ -66,4 +66,4 @@ tags={
 supported_version="1.14.*"
 picture="thumbnail.png"
 name="New Ways REBOOT DEV BUILD"
-path="mod/Kursach-Fizika"
+path="C:\Users\stalk\OneDrive\Документы\Paradox Interactive\Hearts of Iron IV\mod\new_ways_alpha"
