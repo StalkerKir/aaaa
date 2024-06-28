@@ -66,4 +66,4 @@ tags={
 picture="thumbnail.png"
 name="New Ways REBOOT DEV BUILD"
 supported_version="1.14.*"
-path="C:\Users\stalk\OneDrive\Документы\Paradox Interactive\Hearts of Iron IV\mod\new_ways_alpha"
+path="mod\new_ways_alpha"
